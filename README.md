@@ -21,7 +21,7 @@ Masukkan nama orang (pisahkan dengan spasi) = Budi Doni Gea Toni Amar Dio Farhan
 ```
 
 
-- Setelah i maka akan muncul perintah untuk memasukkan jumlah kelompok, isi dengan jumlah kelompok yang diinginkan, saya beri contoh 4
+- Setelah itu maka akan muncul perintah untuk memasukkan jumlah kelompok, isi dengan jumlah kelompok yang diinginkan, saya beri contoh 4
 
 ```bash
 Masukkan jumlah kelompok = 4
